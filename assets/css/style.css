@@ -149,17 +149,18 @@ body {
       color: #444; }
 
 .btn-success {
-  background-color: #00ab9f;
-  border-color: #00ab9f; }
+  background-color: #021110;
+  border-color: #021110; }
   .btn-success:hover {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #021110 !important;
+    border-color: #021110 !important; }
   .btn-success:active {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #021110 !important;
+    background-color: #021110 !important;
+    border-color: #021110 !important; }
   .btn-success:focus {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important;
+    background-color: #021110 !important;
+    border-color: #021110 !important;
     box-shadow: none !important; }
 
 .btn-info {
@@ -202,6 +203,12 @@ body {
     background-color: #FFF;
     border-color: #CCC; }
 
+    .detail {
+      color:white;
+  }
+  .social-link a i {
+    color: white;
+}
 .container {
   max-width: 1100px; }
   @media screen and (max-width: 1060px) {
@@ -225,7 +232,7 @@ body {
       padding: 0px;
       padding-right: 10px; } }
   .profile-box .left-side {
-    background-color: #00ab9f;
+    background-color: #021110;
     color: #FFF;
     padding: 40px 20px; }
     .profile-box .left-side .profile-info {
