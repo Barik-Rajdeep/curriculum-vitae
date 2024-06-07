@@ -325,7 +325,11 @@ body {
   font-size: 1.1rem; }
   .rit-cover .rit-titl i {
     font-size: 18px;
-    margin-right: 5px; }
+    margin-right: 5px;
+      /* existing styles */
+      margin-bottom: 0px; /* adjust this value as needed */
+  }
+  
 .rit-cover .about {
   font-size: .9rem;
   text-align: justify;
